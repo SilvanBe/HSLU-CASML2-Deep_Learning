@@ -33,6 +33,7 @@ To exercsie Exercise Code Notebooks are avaible on Github or on [Google Drive](h
 The solutions are given on both sides too. Here the link for the solutions on [Google Drive](https://drive.google.com/drive/folders/1LARWvjDaBIq0bHZy7SYNtusCu0lqxxLp?usp=share_link). 
 
 All the documents are available here on [Google Drive](https://drive.google.com/drive/folders/1cejMVA6PI63Dz31ZtIqfF_BDljN1wUzn?usp=share_link).
+Please copy the folder before use.
 
 ## Requirements Coding
 The codes are given in python. I use a conda version. The needed requirements are given in the `requirement.txt` file. 
