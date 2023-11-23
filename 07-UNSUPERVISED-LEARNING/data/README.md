@@ -1,5 +1,5 @@
 # Unsupervised Learning
-** Author**: Dr. Yves Staudt
+**Author**: Dr. Yves Staudt
 
 ## Data Set Information
 The concepts will be taught with the help of a lego data set created by myself by scraping a toy website. 
