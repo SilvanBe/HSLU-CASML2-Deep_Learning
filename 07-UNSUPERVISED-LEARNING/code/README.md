@@ -1,31 +1,21 @@
 # Unsupervised Learning - Hands On
 **Author**: Dr. Yves Staudt
 
-## Description Class
-In this classes we treat unsupervised learning, namely
-
-- clustering
-- dimension reduction.
-
-In clustering we treat 
-- k-means clustering
-- hierarchical clustering
-
-In dimension reduction we treat 
-- principal component analysis (PCA)
-- t-distributed stochastic neighboring.
-
-## Data Set Information
-For this purpose a lego dataset is used, built through scraping. 
-
-All the data preparations were done in advance. 
-
+## Code Notebooks
+All Code Notebooks are saved on the Github under `code` folder or are accessible on Google Drive. 
+To exercsie Exercise Code Notebooks are avaible on Github or on [Google Drive](https://drive.google.com/drive/folders/1zcY4OQ1kW4B8zeosEM5Ab2fqD0-oH9se?usp=share_link).
+**Attention**: All file pathes need to be udpdate for the load of the data. 
+The solutions are given on both sides too. Here the link for the solutions on [Google Drive](https://drive.google.com/drive/folders/1LARWvjDaBIq0bHZy7SYNtusCu0lqxxLp?usp=share_link). 
 
 ## Requirements Coding
-The codes are given in python. I use a conda version. The needed requirements are given in the requirement.txt file. 
-Best is to create a new conda version with the txt file with the following command 
+The codes are given in python. I use a conda version. The needed requirements are given in the `requirement.txt` file. 
+Best is to create a new conda version with the `requirement.txt` file with the following command `conda create --name <env> --file requirements.txt`
 
-
-The needed packages 
--
+The used packages are
+- pandas
+- scikit-learn
+- plotly
+- matplotlib
+- searborn
+- scipy
 
