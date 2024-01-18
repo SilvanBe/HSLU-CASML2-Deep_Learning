@@ -18,8 +18,8 @@ https://colab.research.google.com
 Please create Hugging Face account here: 
 https://huggingface.co/join
 
-## ChatBot
-We will use library lamini to build a Question-Answering chatbot
+## Introduction to fine-tuning of LLMs
+We will use library lamini to explore non fine-tune
 https://app.lamini.ai/account
 
 ## Data and Code
