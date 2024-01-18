@@ -9,10 +9,18 @@ In this class we cover:
 - Transformers
 - Transformers Contextual Sentence Classification
 - Chatbot
-  
+
+## Infrostructure
+We will use google colab to train transformer's model
+https://colab.research.google.com
+
 ## Access to Hugging Face Transformers
 Please create Hugging Face account here: 
 https://huggingface.co/join
+
+## ChatBot
+We will use library lamini to build a Question-Answering chatbot
+https://app.lamini.ai/account
 
 ## Data and Code
 An example notebook for the grand challenge is saved in the repository under `code` folder.
