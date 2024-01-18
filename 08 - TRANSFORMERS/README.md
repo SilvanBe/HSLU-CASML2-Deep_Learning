@@ -8,7 +8,7 @@ In this class we cover:
 - Prompt Engineering
 - Transformers
 - Transformer-Based Contextual Sentence Classification
-Moving Towards Fine-Tuning of LLMs (Language Models)(Language Models)
+- Moving Towards Fine-Tuning of LLMs
 
 ## Infrastructure
 We will use google colab to train transformer's model
