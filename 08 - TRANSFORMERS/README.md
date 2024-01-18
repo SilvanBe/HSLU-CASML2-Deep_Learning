@@ -10,7 +10,7 @@ In this class we cover:
 - Transformers Contextual Sentence Classification
 - Chatbot
 
-## Infrostructure
+## Infrastructure
 We will use google colab to train transformer's model
 https://colab.research.google.com
 
