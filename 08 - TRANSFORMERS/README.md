@@ -7,8 +7,8 @@ In this class we cover:
 
 - Prompt Engineering
 - Transformers
-- Transformers Contextual Sentence Classification
-- Chatbot
+- Transformer-Based Contextual Sentence Classification
+Moving Towards Fine-Tuning of LLMs (Language Models)(Language Models)
 
 ## Infrastructure
 We will use google colab to train transformer's model
@@ -23,4 +23,6 @@ We will use library lamini to explore non fine-tune vs fine-tune models, as well
 https://app.lamini.ai/account
 
 ## Data and Code
-An example notebook for the grand challenge is saved in the repository under `code` folder.
+Notebooks for "Transformer-Based Contextual Sentence Classification"
+and "Moving Towards Fine-Tuning of LLMs" are saved in the repository under `code` folder.
+Data for "Transformer-Based Contextual Sentence Classification" is saved in the repository under `data` folder.
