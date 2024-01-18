@@ -23,7 +23,7 @@ We will use library lamini to explore non fine-tune vs fine-tune models, as well
 https://app.lamini.ai/account
 
 ## Data and Code
-Notebooks for "Transformer-Based Contextual Sentence Classification"
-and "Moving Towards Fine-Tuning of LLMs" are saved in the repository under `code` folder.
+Notebooks for "Transformer-Based Contextual Sentence Classification" transformers_setfit_library.ipynb
+and "Moving Towards Fine-Tuning of LLMs" intro_instruction_fine_tuning.ipynb are saved in the repository under `code` folder.
 
 Data for "Transformer-Based Contextual Sentence Classification" is saved in the repository under `data` folder.
