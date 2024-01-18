@@ -19,7 +19,7 @@ Please create Hugging Face account here:
 https://huggingface.co/join
 
 ## Introduction to fine-tuning of LLMs
-We will use library lamini to explore non fine-tune vs fine-tune models, as well as first dtep to instuction fine-tuning
+We will use library lamini to explore non fine-tune vs fine-tune models, as well as first steps towards to instuction fine-tuning
 https://app.lamini.ai/account
 
 ## Data and Code
