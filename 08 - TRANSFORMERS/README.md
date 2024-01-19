@@ -23,7 +23,9 @@ We will use https://sdk.vercel.ai/prompt to explore different LLMs and for promp
 
 ## LLMs Chats
 OpenAI ChatGPT-3: https://chat.openai.com/
+
 Google Bard: https://bard.google.com/chat
+
 Meta LLaMA-2: https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat
 
 ## Introduction to fine-tuning of LLMs
