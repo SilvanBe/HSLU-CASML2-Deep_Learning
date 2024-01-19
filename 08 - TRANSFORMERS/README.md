@@ -18,6 +18,14 @@ https://colab.research.google.com
 Please create Hugging Face account here: 
 https://huggingface.co/join
 
+## LLMs Playground
+We will use https://sdk.vercel.ai/prompt to explore different LLMs and for prompt engeneering hands-on
+
+## LLMs Chats
+OpenAI ChatGPT-3: https://chat.openai.com/
+Google Bard: https://bard.google.com/chat
+Meta LLaMA-2: https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat
+
 ## Introduction to fine-tuning of LLMs
 We will use library lamini to explore non fine-tune vs fine-tune models, as well as first steps towards to instuction fine-tuning
 https://app.lamini.ai/account
